@@ -100,6 +100,7 @@ h2. River Plugins
 * "Solr River Plugin":https://github.com/javanna/elasticsearch-river-solr/ (by Luca Cavanna)
 * "St9 River Plugin":https://github.com/sunnygleason/elasticsearch-river-st9 (by Sunny Gleason)
 * "Kafka River Plugin":https://github.com/endgameinc/elasticsearch-river-kafka (by Endgame Inc.)
+* "Subversion River Plugin":https://github.com/plombard/SubversionRiver (by Pascal Lombard)
 
 h2. Transport Plugins
 
